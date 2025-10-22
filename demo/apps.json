@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Inventory System",
-    "description": "Aplikasi demo manajemen stok dan gudang",
-    "logo": "mdi:package-variant-closed",
-    "link": "https://demo.example.com/inventory",
+    "name": "Purchasing System",
+    "description": "Aplikasi pengelolaan proses pembelian mulai dari permintaan hingga persetujuan dan penerimaan barang.",
+    "logo": "fluent-color:location-ripple-24",
+    "link": "http://demo-shitekiapp.com/app/prosys/",
     "disabled": false
   },
   {
     "id": 2,
-    "name": "Purchasing Portal",
-    "description": "Portal pembelian dengan approval flow",
-    "logo": "mdi:cart-outline",
-    "link": "https://demo.example.com/purchasing",
+    "name": "Compliance Hub",
+    "description": "Platform pemantauan dan pelaporan kepatuhan terhadap regulasi serta kebijakan internal perusahaan.",
+    "logo": "fluent-color:clipboard-task-24",
+    "link": "http://demo-shitekiapp.com/app/comhub/",
     "disabled": true
   },
   {
     "id": 3,
-    "name": "Quality Control",
-    "description": "Dashboard pemeriksaan dan monitoring QC",
-    "logo": "mdi:clipboard-check-outline",
-    "link": "https://demo.example.com/qc",
-    "disabled": false
+    "name": "Content Management System",
+    "description": "Sistem untuk mengelola konten digital seperti artikel, dokumen, dan media secara terpusat dan terstruktur.",
+    "logo": "fluent-color:clipboard-text-edit-24",
+    "link": "http://demo-shitekiapp.com/app/cms/",
+    "disabled": true
   }
 ]
