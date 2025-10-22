@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Inventory System",
     "description": "Aplikasi demo manajemen stok dan gudang",
-    "logo": "/icons/inventory.svg",
+    "logo": "mdi:package-variant-closed",
     "link": "https://demo.example.com/inventory",
     "disabled": false
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Purchasing Portal",
     "description": "Portal pembelian dengan approval flow",
-    "logo": "/icons/purchasing.svg",
+    "logo": "mdi:cart-outline",
     "link": "https://demo.example.com/purchasing",
     "disabled": true
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Quality Control",
     "description": "Dashboard pemeriksaan dan monitoring QC",
-    "logo": "/icons/qc.svg",
+    "logo": "mdi:clipboard-check-outline",
     "link": "https://demo.example.com/qc",
     "disabled": false
   }
