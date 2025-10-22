@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Inventory System",
+    "description": "Aplikasi demo manajemen stok dan gudang",
+    "logo": "/icons/inventory.svg",
+    "link": "https://demo.example.com/inventory",
+    "disabled": false
+  },
+  {
+    "id": 2,
+    "name": "Purchasing Portal",
+    "description": "Portal pembelian dengan approval flow",
+    "logo": "/icons/purchasing.svg",
+    "link": "https://demo.example.com/purchasing",
+    "disabled": true
+  },
+  {
+    "id": 3,
+    "name": "Quality Control",
+    "description": "Dashboard pemeriksaan dan monitoring QC",
+    "logo": "/icons/qc.svg",
+    "link": "https://demo.example.com/qc",
+    "disabled": false
+  }
+]
